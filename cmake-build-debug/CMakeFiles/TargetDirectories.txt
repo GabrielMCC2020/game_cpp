@@ -1,0 +1,3 @@
+C:/Users/Lab-Redes/Projects/game_cpp/cmake-build-debug/CMakeFiles/game_cpp.dir
+C:/Users/Lab-Redes/Projects/game_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lab-Redes/Projects/game_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
